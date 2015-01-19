@@ -5,7 +5,7 @@ This module manages system wide environment variables.
 
 None.
 
-## Usage in Vagrantfile
+## Puppetfile
 
 ```
 mod 'aw_environment', :git => 'https://github.com/andreas-weber/puppet-environment.git'
