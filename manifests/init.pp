@@ -12,7 +12,7 @@
 #   include aw_environment
 #
 #   class { 'aw_environment':
-#     'vars' => {
+#     vars => {
 #       'APPLICATION_DEBUG' => 1',
 #       'APPLICATION_ENVIRONMENT' => 'dev'
 #     }
